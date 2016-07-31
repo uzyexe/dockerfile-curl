@@ -14,7 +14,7 @@ curl is an open source command line tool and library for transferring data with 
 
 [**Trusted Build**](https://registry.hub.docker.com/u/uzyexe/curl/)
 
-This Docker image is based on the official [alpine:3.2](https://registry.hub.docker.com/_/alpine/) base image.
+This Docker image is based on the official [alpine:3.4](https://hub.docker.com/_/alpine/) base image.
 
 ## How to use this image
 
